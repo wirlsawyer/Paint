@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint", "Paint\Paint.csproj", "{86334228-9244-4871-A94F-50AFF146606C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86334228-9244-4871-A94F-50AFF146606C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86334228-9244-4871-A94F-50AFF146606C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86334228-9244-4871-A94F-50AFF146606C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86334228-9244-4871-A94F-50AFF146606C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
